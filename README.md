@@ -19,3 +19,10 @@ pip install matplotlib
 This is a CLI application that uses the matplotlib library to plot the data in a line graph format and uses the requests library to get the data from the API. When using 
 the application, the application will ask if the user would like to filter the data which would allow a filter from start date to end date giving all data in between
 the alocated dates or unfiltered showing all the data in one graph.
+
+# Start
+
+In terminal
+```bash
+start main.py
+```
